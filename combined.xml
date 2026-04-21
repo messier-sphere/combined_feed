@@ -1,16 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Combined Feed</title><link>combined.xml</link><description>Merged RSS feed generated via GitHub Actions + GitHub Pages</description><atom:link href="combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Tue, 21 Apr 2026 11:00:57 +0000</lastBuildDate><item><title>SCOTUS Takes on Music Piracy Showdown &amp; NYC Casinos Get Lucky Break</title><description>Episode 726: Neal and Toby discuss a major supreme court case between top music labels and internet providers over who’s liable for copyright infringement. Then, the NY state gaming board approves 3 casino licenses in New York City. Plus, Airbus shares take a hit after multiple reports of new quality issues with their A320 aircrafts. Meanwhile, Toby dives into the trend of quarter zips that are making a comeback in men’s fashion. Finally, Shopify goes dark in, quite possibly, the worst time of all – Cyber Monday. 
-
-Check out https://www.linkedIn.com/mbd for more.
-
-Get your MBD live show tickets here! https://www.tinyurl.com/MBD-HOLIDAY 
-
-Subscribe to Morning Brew Daily for more of the news you need to start your day. Share the show with a friend, and leave us a review on your favorite podcast app.
-
-Listen to Morning Brew Daily Here:⁠ ⁠⁠https://www.swap.fm/l/mbd-note⁠⁠⁠ 
-
-Watch Morning Brew Daily Here:⁠ ⁠⁠https://www.youtube.com/@MorningBrewDailyShow⁠
-Learn more about your ad choices. Visit megaphone.fm/adchoices</description><guid isPermaLink="false">14aa4c51fde60421a14c10286208c1844968f173</guid><category>https://feeds.megaphone.fm/MOBI8777994188</category><pubDate>Tue, 02 Dec 2025 11:58:00 +0000</pubDate></item><item><title>Dell Donates $6 Billion to Kids &amp; Costco Sues Trump Over Tariffs</title><description>Episode 727: Neal and Toby talk about the funding of ‘Trump accounts’ that will deposit $250 into investment accounts for 25 million children, thanks to Michael and Susan Dell. Then, Costco is standing up to the Trump administration by seeking a refund of tariffs. Meanwhile, companies are looking for various incentives to have their workers cozy up to AI, even if it means it may replace them in the end. Also, since the end of the year is barreling down, many platforms are unveiling their own version of Spotify’s ‘Wrapped’, including YouTube, Apple, and Wikipedia. 
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Combined Feed</title><link>combined.xml</link><description>Merged RSS feed generated via GitHub Actions + GitHub Pages</description><atom:link href="combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Tue, 21 Apr 2026 13:11:57 +0000</lastBuildDate><item><title>Dell Donates $6 Billion to Kids &amp; Costco Sues Trump Over Tariffs</title><description>Episode 727: Neal and Toby talk about the funding of ‘Trump accounts’ that will deposit $250 into investment accounts for 25 million children, thanks to Michael and Susan Dell. Then, Costco is standing up to the Trump administration by seeking a refund of tariffs. Meanwhile, companies are looking for various incentives to have their workers cozy up to AI, even if it means it may replace them in the end. Also, since the end of the year is barreling down, many platforms are unveiling their own version of Spotify’s ‘Wrapped’, including YouTube, Apple, and Wikipedia. 
 
 Check out https://www.linkedIn.com/mbd for more.
 
@@ -1210,4 +1199,15 @@ Subscribe to Morning Brew Daily for more of the news you need to start your day.
 Listen to Morning Brew Daily Here:⁠ ⁠⁠https://www.swap.fm/l/mbd-note⁠⁠⁠ 
 
 Watch Morning Brew Daily Here:⁠ ⁠⁠https://www.youtube.com/@MorningBrewDailyShow⁠
-Learn more about your ad choices. Visit megaphone.fm/adchoices</description><guid isPermaLink="false">95f5e747f8c633f8cb9e62a13b406e0249f4c8bc</guid><category>https://feeds.megaphone.fm/MOBI8777994188</category><pubDate>Mon, 20 Apr 2026 11:24:00 +0000</pubDate></item></channel></rss>
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description><guid isPermaLink="false">95f5e747f8c633f8cb9e62a13b406e0249f4c8bc</guid><category>https://feeds.megaphone.fm/MOBI8777994188</category><pubDate>Mon, 20 Apr 2026 11:24:00 +0000</pubDate></item><item><title>The Tim Cook Era is Ending &amp; Pancreatic Cancer Breakthrough?</title><description>Episode 828: Neal and Toby discuss the ending of the Tim Cook era as Apple names their next CEO, John Ternus. Next, a breakthrough out of the science world where an mRNA vaccine given to patients with pancreatic cancer is showing lasting results after six years. Then, Bezos’ Blue Origin mistakenly puts a customer’s satellite in the wrong orbit in its third launch. Meanwhile, notable CEOs are achieving rockstar-like fandom among their ardent fans, even going as far buying shirts with their faces on them. Wow. Finally, FBI Director Kash Patel is suing The Atlantic. 
+
+Learn more at https://www.schwab.com/oninvesting
+
+Subscribe to Morning Brew Daily for more of the news you need to start your day. Share the show with a friend, and leave us a review on your favorite podcast app.
+
+Listen to Morning Brew Daily Here:⁠ ⁠⁠https://www.swap.fm/l/mbd-note⁠⁠⁠ 
+
+Watch Morning Brew Daily Here:⁠ ⁠⁠https://www.youtube.com/@MorningBrewDailyShow⁠
+
+
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description><guid isPermaLink="false">a15be1cd2159ae3034516fe87ce7586bb77ca11f</guid><category>https://feeds.megaphone.fm/MOBI8777994188</category><pubDate>Tue, 21 Apr 2026 11:00:00 +0000</pubDate></item></channel></rss>
