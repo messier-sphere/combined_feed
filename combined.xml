@@ -1,16 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Combined Feed</title><link>combined.xml</link><description>Merged RSS feed generated via GitHub Actions + GitHub Pages</description><atom:link href="combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Fri, 29 May 2026 10:40:25 +0000</lastBuildDate><item><title>Will SCOTUS Strike Down Trump’s Tariffs? &amp; Paging Dr. ChatGPT</title><description>Episode 754: Neal and Toby preview two major events from the federal government. First, the Supreme Court is expected to rule on Trump’s tariffs and what it will mean for the economy. Second, the December jobs report arrives that gives a health-check on the labor market. Then, ChatGPT launches a health tab that connects medical records and answers any health questions. Followed by Google launching its Gemini AI throughout Gmail. Meanwhile, Stock of the Week, Dog of the Week returns with Sandisk soaring 28% and a Saks bankruptcy seemed inevitable after an unsettling CEO call. 
-
-Check out https://www.rubrik.com for more 
-
-Join us for MBD’s Trivia Night! https://mbdtrivianight-jan2026.splashthat.com/ 
-
-Subscribe to Morning Brew Daily for more of the news you need to start your day. Share the show with a friend, and leave us a review on your favorite podcast app.
-
-Listen to Morning Brew Daily Here:⁠ ⁠⁠https://www.swap.fm/l/mbd-note⁠⁠⁠ 
-
-Watch Morning Brew Daily Here:⁠ ⁠⁠https://www.youtube.com/@MorningBrewDailyShow⁠
-Learn more about your ad choices. Visit megaphone.fm/adchoices</description><guid isPermaLink="false">f0a880053a494302fa51c48355c59d1317a59c53</guid><category>https://feeds.megaphone.fm/MOBI8777994188</category><pubDate>Fri, 09 Jan 2026 12:09:00 +0000</pubDate></item><item><title>Trump Calls for 10% Cap on Credit Card Interest &amp; Golden Globes Welcome Podcasts</title><description>Episode 755: Neal and Toby discuss Trump’s push to put a 1-year, 10% cap on credit card interest rates and how banks are reacting. Then, Walmart just announced a partnership with Google to power their AI shopping experience. Plus, mortgage rates finally have fallen below 6% for the first time in years. And, now that podcasts are a category at the Golden Globes, it’s a sign that the medium is on par with TV and film. Finally, what you need to know in the upcoming week ahead. 
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Combined Feed</title><link>combined.xml</link><description>Merged RSS feed generated via GitHub Actions + GitHub Pages</description><atom:link href="combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Fri, 29 May 2026 13:54:12 +0000</lastBuildDate><item><title>Trump Calls for 10% Cap on Credit Card Interest &amp; Golden Globes Welcome Podcasts</title><description>Episode 755: Neal and Toby discuss Trump’s push to put a 1-year, 10% cap on credit card interest rates and how banks are reacting. Then, Walmart just announced a partnership with Google to power their AI shopping experience. Plus, mortgage rates finally have fallen below 6% for the first time in years. And, now that podcasts are a category at the Golden Globes, it’s a sign that the medium is on par with TV and film. Finally, what you need to know in the upcoming week ahead. 
 
 Explore Indeed’s full findings at https://www.indeed.com/2026hiringtrends
 
@@ -1141,4 +1130,15 @@ Subscribe to Morning Brew Daily for more of the news you need to start your day.
 Listen to Morning Brew Daily Here:⁠ ⁠⁠https://www.swap.fm/l/mbd-note⁠⁠⁠ 
 
 Watch Morning Brew Daily Here:⁠ ⁠⁠https://www.youtube.com/@MorningBrewDailyShow⁠
-Learn more about your ad choices. Visit megaphone.fm/adchoices</description><guid isPermaLink="false">bd93da968f5a35f07717e5772b3ec8db7060447c</guid><category>https://feeds.megaphone.fm/MOBI8777994188</category><pubDate>Thu, 28 May 2026 11:00:00 +0000</pubDate></item></channel></rss>
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description><guid isPermaLink="false">bd93da968f5a35f07717e5772b3ec8db7060447c</guid><category>https://feeds.megaphone.fm/MOBI8777994188</category><pubDate>Thu, 28 May 2026 11:00:00 +0000</pubDate></item><item><title>Americans Are Spending Like No Tomorrow &amp; Dell Surge Lifts Trump’s Portfolio</title><description>#856: Retail stocks are surging thanks to US shoppers continuing to spend, spend, spend (even if it’s squeezing their budgets). Anthropic surpasses OpenAI as the most valuable AI startup. Dell wins a $9.7B Pentagon deal. JPMorgan owes an ex-employee $4.25M for wrongful termination. Finally, Blue Origin’s attempted launch ends in a spectacular explosion (no one was hurt). 
+
+Learn more at Linkedin.com/MBD
+
+Sign up to join our trivia night! https://mbdtrivianight-june2026.splashthat.com/ 
+
+Subscribe to Morning Brew Daily for more of the news you need to start your day. Share the show with a friend, and leave us a review on your favorite podcast app.
+
+Listen to Morning Brew Daily Here:⁠ ⁠⁠https://www.swap.fm/l/mbd-note⁠⁠⁠ 
+
+Watch Morning Brew Daily Here:⁠ ⁠⁠https://www.youtube.com/@MorningBrewDailyShow⁠
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description><guid isPermaLink="false">caebfa7f7d51651284f8022009cc20a2d86c5776</guid><category>https://feeds.megaphone.fm/MOBI8777994188</category><pubDate>Fri, 29 May 2026 13:15:00 +0000</pubDate></item></channel></rss>
