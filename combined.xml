@@ -1,18 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Combined Feed</title><link>combined.xml</link><description>Merged RSS feed generated via GitHub Actions + GitHub Pages</description><atom:link href="combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Mon, 08 Jun 2026 10:25:02 +0000</lastBuildDate><item><title>Davos 101: A Preview of the World Economic Forum 2026</title><description>Episode 760: Neal and Toby give you the Davos 101 at this year’s World Economic Forum, the conference where leaders across worlds of business, politics, and academia come together to talk about global current issues. Who will be there? What topics are trending? And how expensive is the food there? It’s a quick preview of what to expect and what we’re looking for during the week. Let’s ride…to Switzerland! 
-
-Explore Indeed’s full findings at https://www.indeed.com/2026hiringtrends
-
-Learn more about Lightspeed at https://www.lsvp.com
-
-Subscribe to Morning Brew Daily for more of the news you need to start your day. Share the show with a friend, and leave us a review on your favorite podcast app.
-
-Listen to Morning Brew Daily Here:⁠ ⁠⁠https://www.swap.fm/l/mbd-note⁠⁠⁠ 
-
-Watch Morning Brew Daily Here:⁠ ⁠⁠https://www.youtube.com/@MorningBrewDailyShow⁠
-
-
-Learn more about your ad choices. Visit megaphone.fm/adchoices</description><guid isPermaLink="false">0cd73f6e05dd9377fc51ad790253cf389453c102</guid><category>https://feeds.megaphone.fm/MOBI8777994188</category><pubDate>Mon, 19 Jan 2026 12:00:00 +0000</pubDate></item><item><title>Trump Threatens EU Tariffs Over Greenland &amp; ChatGPT Adds Ads</title><description>Episode 761: Neal and Toby discuss the trade war brewing over in Europe as Trump indicates he wants Greenland because he was snubbed for the Nobel Peace Prize. Then, OpenAI thinks it can revolutionize the advertising space by playing ads within ChatGPT. Also, a new ‘mini-sphere’ is landing in DC. Meanwhile, Toby dives into the trend of over-stated plots in Netflix content because they’re thinking everyone is watching while on their phones. They’re…not wrong? Finally, a wrap of headlines as we’re recording from Davos! 
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Combined Feed</title><link>combined.xml</link><description>Merged RSS feed generated via GitHub Actions + GitHub Pages</description><atom:link href="combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Mon, 08 Jun 2026 14:43:54 +0000</lastBuildDate><item><title>Trump Threatens EU Tariffs Over Greenland &amp; ChatGPT Adds Ads</title><description>Episode 761: Neal and Toby discuss the trade war brewing over in Europe as Trump indicates he wants Greenland because he was snubbed for the Nobel Peace Prize. Then, OpenAI thinks it can revolutionize the advertising space by playing ads within ChatGPT. Also, a new ‘mini-sphere’ is landing in DC. Meanwhile, Toby dives into the trend of over-stated plots in Netflix content because they’re thinking everyone is watching while on their phones. They’re…not wrong? Finally, a wrap of headlines as we’re recording from Davos! 
 
 Explore Indeed’s full findings at https://www.indeed.com/2026hiringtrends
 
@@ -1161,4 +1148,17 @@ Watch Morning Brew Daily Here:⁠ ⁠⁠https://www.youtube.com/@MorningBrewDail
 This is a paid advertisement. Today's episode of the Morning Brew Daily Show is brought to you by Sage — a trusted global provider and leader in accounting, financial, HR, and payroll technology for small and mid-sized businesses. The following commentary reflects general information about Sage and its products. Specific features, capabilities, and availability may vary by product, region, and customer requirements. To find out more, visit sage.com/morningbrew.
 
 
-Learn more about your ad choices. Visit megaphone.fm/adchoices</description><guid isPermaLink="false">071062632236f4d7beac4cc62e9fe3ea84f9fb63</guid><category>https://feeds.megaphone.fm/MOBI8777994188</category><pubDate>Fri, 05 Jun 2026 11:14:00 +0000</pubDate></item></channel></rss>
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description><guid isPermaLink="false">071062632236f4d7beac4cc62e9fe3ea84f9fb63</guid><category>https://feeds.megaphone.fm/MOBI8777994188</category><pubDate>Fri, 05 Jun 2026 11:14:00 +0000</pubDate></item><item><title>S&amp;P 500’s Worst Day of the Year &amp; GLP-1s Are Costing Retailers in Returns</title><description>#862: Neal and Toby talk about how the Nasdaq and S&amp;P 500 suffered the worst day of the year. Plus, why Americans on GLP-1s are overwhelming retailers with increased returns and why the Bears’ Indiana move isn’t final despite celebrations. Finally, who won the Tony’s?
+
+To learn more visit https://www.sage.com/morningbrew 
+
+Subscribe to Morning Brew Daily for more of the news you need to start your day. Share the show with a friend, and leave us a review on your favorite podcast app.
+
+Listen to Morning Brew Daily Here:⁠ ⁠⁠https://www.swap.fm/l/mbd-note⁠⁠⁠ 
+
+Watch Morning Brew Daily Here:⁠ ⁠⁠https://www.youtube.com/@MorningBrewDailyShow⁠
+
+This is a paid advertisement. Today's episode of the Morning Brew Daily Show is brought to you by Sage — a trusted global provider and leader in accounting, financial, HR, and payroll technology for small and mid-sized businesses. The following commentary reflects general information about Sage and its products. Specific features, capabilities, and availability may vary by product, region, and customer requirements. To find out more, visit sage.com/morningbrew.
+
+
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description><guid isPermaLink="false">1752cbfb3c4e6661d0ef6ce058b3e59a72db26d1</guid><category>https://feeds.megaphone.fm/MOBI8777994188</category><pubDate>Mon, 08 Jun 2026 11:01:00 +0000</pubDate></item></channel></rss>
