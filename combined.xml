@@ -1,14 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Combined Feed</title><link>combined.xml</link><description>Merged RSS feed generated via GitHub Actions + GitHub Pages</description><atom:link href="combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Mon, 06 Jul 2026 10:05:11 +0000</lastBuildDate><item><title>Are You Smarter Than Morning Brew?</title><description>Episode 780: It’s another edition of MBD’s Trivia Game Show! Neal and Toby quiz Dan Toomey, the host of Good Work; Megan Baniewicz, from Morning Brew’s social team; and Molly Liebergall, writer of the daily newsletter on current events, the Winter Olympics, and love odes. Then everybody drafts their all-time favorite apps. 
-
-Learn more about FlavCity at https://go.shopflavcity.com/mbds 
-
-Sign up for our monthly trivia! https://mbdtrivianight-feb2026.splashthat.com/ 
-
-Subscribe to Morning Brew Daily for more of the news you need to start your day. Share the show with a friend, and leave us a review on your favorite podcast app.
-
-Listen to Morning Brew Daily Here:⁠ ⁠⁠https://www.swap.fm/l/mbd-note⁠⁠⁠ Watch Morning Brew Daily Here:⁠ ⁠⁠https://www.youtube.com/@MorningBrewDailyShow⁠
-Learn more about your ad choices. Visit megaphone.fm/adchoices</description><guid isPermaLink="false">2778a8c966698d06e849563df7d2849058a15d90</guid><category>https://feeds.megaphone.fm/MOBI8777994188</category><pubDate>Mon, 16 Feb 2026 12:00:00 +0000</pubDate></item><item><title>AI is Driving a Memory Shortage &amp; Detroit Wants to Revive the Sedan</title><description>Episode 781: Neal and Toby chat about the growing concern of a memory chip shortage in the wake of the AI boom. Then, ByteDance’s AI video generator is so good that it’s caused multiple studios to send out cease and desist orders. Meanwhile, Detroit is hoping the return of the sedan will be the answer to America’s affordability crisis. Also, Toby dives into the trend of “maxxing,” the term that has spread across social media and taken over the manosphere. 
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Combined Feed</title><link>combined.xml</link><description>Merged RSS feed generated via GitHub Actions + GitHub Pages</description><atom:link href="combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Mon, 06 Jul 2026 14:21:48 +0000</lastBuildDate><item><title>AI is Driving a Memory Shortage &amp; Detroit Wants to Revive the Sedan</title><description>Episode 781: Neal and Toby chat about the growing concern of a memory chip shortage in the wake of the AI boom. Then, ByteDance’s AI video generator is so good that it’s caused multiple studios to send out cease and desist orders. Meanwhile, Detroit is hoping the return of the sedan will be the answer to America’s affordability crisis. Also, Toby dives into the trend of “maxxing,” the term that has spread across social media and taken over the manosphere. 
 
 Learn more about FlavCity at https://go.shopflavcity.com/mbds 
 
@@ -1214,6 +1205,19 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</description><gui
 
 Get 10% off using MORNINGBREW10 at altrarunning.com/morningbrew 
 
+Grab tickets to our Performance Revue show! https://www.morningbrew.com/events/brew-performance-revue-2026?utm_campaign=performance_revue_2026&amp;amp;utm_source=mbd
+
+Subscribe to Morning Brew Daily for more of the news you need to start your day. Share the show with a friend, and leave us a review on your favorite podcast app.
+
+Listen to Morning Brew Daily Here:⁠ ⁠⁠https://www.swap.fm/l/mbd-note⁠⁠⁠ 
+
+Watch Morning Brew Daily Here:⁠ ⁠⁠https://www.youtube.com/@MorningBrewDailyShow⁠
+
+
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description><guid isPermaLink="false">e89358f91bd87a97334370fbf5dc4cfa235c73d1</guid><category>https://feeds.megaphone.fm/MOBI8777994188</category><pubDate>Fri, 03 Jul 2026 11:00:00 +0000</pubDate></item><item><title>Trump Accounts Are Now Live &amp; Philosophy Majors Find Work in AI</title><description>#882: What you need to know about the Trump accounts that are now live. Scientists have made a cell from scratch for the first time. Bending Spoons raises $1 billion in its IPO. AI labs are turning to philosophy majors to help solve some of the tech’s most complex problems. Finally, what you need to know in the week ahead. 
+
+Get 10% off using MORNINGBREW10 at altrarunning.com/morningbrew 
+
 Grab tickets to our Performance Revue show! https://www.morningbrew.com/events/brew-performance-revue-2026?utm_campaign=performance_revue_2026&amp;utm_source=mbd
 
 Subscribe to Morning Brew Daily for more of the news you need to start your day. Share the show with a friend, and leave us a review on your favorite podcast app.
@@ -1223,4 +1227,4 @@ Listen to Morning Brew Daily Here:⁠ ⁠⁠https://www.swap.fm/l/mbd-note⁠⁠
 Watch Morning Brew Daily Here:⁠ ⁠⁠https://www.youtube.com/@MorningBrewDailyShow⁠
 
 
-Learn more about your ad choices. Visit megaphone.fm/adchoices</description><guid isPermaLink="false">e89358f91bd87a97334370fbf5dc4cfa235c73d1</guid><category>https://feeds.megaphone.fm/MOBI8777994188</category><pubDate>Fri, 03 Jul 2026 11:00:00 +0000</pubDate></item></channel></rss>
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description><guid isPermaLink="false">6296f0f31f200306560e74d64dad1dc7326f6e1b</guid><category>https://feeds.megaphone.fm/MOBI8777994188</category><pubDate>Mon, 06 Jul 2026 11:00:00 +0000</pubDate></item></channel></rss>
