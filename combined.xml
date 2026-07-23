@@ -1,16 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Combined Feed</title><link>combined.xml</link><description>Merged RSS feed generated via GitHub Actions + GitHub Pages</description><atom:link href="combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Thu, 23 Jul 2026 11:04:13 +0000</lastBuildDate><item><title>Big Tech Picks Up Data Center Bills? &amp; Apple Intros Low-Cost Laptop</title><description>Episode 793: Neal and Toby dive into the Big Tech’s pledge to foot the bill of their own power plants to power their AI aspirations, but will it actually work? Then, Apple debuts a new low-cost laptop to attract consumers and businesses looking for a more affordable option. Also, markets are up as the war in the Middle East enters its sixth day, signaling, they’re not so worried about it. Meanwhile, Neal shares his favorite numbers on the wealthy in Jackson Hole,  solo Broadway adventures, and a crossing guard with a legitimate side business.
-
-Learn more about Bland AI at bland.ai/mbd
-
-Join us for trivia! https://mbdtrivianight-march2026.splashthat.com/ 
-
-Subscribe to Morning Brew Daily for more of the news you need to start your day. Share the show with a friend, and leave us a review on your favorite podcast app.
-
-Listen to Morning Brew Daily Here:⁠ ⁠⁠https://www.swap.fm/l/mbd-note⁠⁠⁠ 
-
-Watch Morning Brew Daily Here:⁠ ⁠⁠https://www.youtube.com/@MorningBrewDailyShow⁠
-Learn more about your ad choices. Visit megaphone.fm/adchoices</description><guid isPermaLink="false">ce5ed58a6f5d7a3d2609f9f531068fedb10497af</guid><category>https://feeds.megaphone.fm/MOBI8777994188</category><pubDate>Thu, 05 Mar 2026 12:08:00 +0000</pubDate></item><item><title>America is Going Founder Mode &amp; Can Robinhood’s Platinum Card Take Down Amex?</title><description>Episode 794: Neal and Kyle chat about the booming business of entrepreneurship that has swept across the US as workers are finding themselves vulnerable to AI-caused layoffs. Plus, a preview of the jobs report for February. Also, Robinhood introduces a new platinum card to compete with American Express. Meanwhile, the Pentagon is interested in Ukrainian interceptor drones to counter Iran. And, the war in the Middle East is driving the cost of jet fuel and is hurting airlines. Finally, the World Baseball Classic, F1, and Paralympics kick off this weekend.
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Combined Feed</title><link>combined.xml</link><description>Merged RSS feed generated via GitHub Actions + GitHub Pages</description><atom:link href="combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Thu, 23 Jul 2026 13:41:52 +0000</lastBuildDate><item><title>America is Going Founder Mode &amp; Can Robinhood’s Platinum Card Take Down Amex?</title><description>Episode 794: Neal and Kyle chat about the booming business of entrepreneurship that has swept across the US as workers are finding themselves vulnerable to AI-caused layoffs. Plus, a preview of the jobs report for February. Also, Robinhood introduces a new platinum card to compete with American Express. Meanwhile, the Pentagon is interested in Ukrainian interceptor drones to counter Iran. And, the war in the Middle East is driving the cost of jet fuel and is hurting airlines. Finally, the World Baseball Classic, F1, and Paralympics kick off this weekend.
 
 Learn more about Bland AI at bland.ai/mbd
 
@@ -1323,4 +1312,19 @@ Subscribe to Morning Brew Daily for more of the news you need to start your day.
 Listen to Morning Brew Daily Here:⁠ ⁠⁠https://www.swap.fm/l/mbd-note⁠⁠⁠ 
 
 
-Learn more about your ad choices. Visit megaphone.fm/adchoices</description><guid isPermaLink="false">867b81fa43e79450ede4791aff8081f884faab20</guid><category>https://feeds.megaphone.fm/MOBI8777994188</category><pubDate>Wed, 22 Jul 2026 11:11:00 +0000</pubDate></item></channel></rss>
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description><guid isPermaLink="false">867b81fa43e79450ede4791aff8081f884faab20</guid><category>https://feeds.megaphone.fm/MOBI8777994188</category><pubDate>Wed, 22 Jul 2026 11:11:00 +0000</pubDate></item><item><title>OpenAI’s Rogue Model Hacks Another Company &amp; The US is Losing its Lead in Farming</title><description>#895: OpenAI admits an AI agent escaped a testing environment and hacked into another company. Alphabet reports it plans to raise spending on capex to speed its AI building. Tesla falls short on its profit expectations as costs rise. Neal shares his favorite numbers on the fall of US farming, therapists could be a reason for estranged family relationships, and the heatwave sweeping across Japan. Finally, the Trump administration signs a nuclear deal with Saudi Arabia.&amp;nbsp;
+
+Got difficult questions? Head to https://www.claude.ai/mbd to answer them.&amp;nbsp;
+
+Get tickets for our trivia tournament!
+
+https://caveat.nyc/events/the-morning-brew-trivia-tournament-2026-07-30&amp;nbsp;
+
+Grab tickets to our Performance Revue show! https://www.morningbrew.com/events/brew-performance-revue-2026?utm_campaign=performance_revue_2026&amp;amp;utm_source=mbd
+
+Subscribe to Morning Brew Daily for more of the news you need to start your day. Share the show with a friend, and leave us a review on your favorite podcast app.
+
+Listen to Morning Brew Daily Here:⁠ ⁠⁠https://www.swap.fm/l/mbd-note⁠⁠⁠ 
+
+
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description><guid isPermaLink="false">45c5fca73913bf3cd33057ebe9dee9cca8e7f0a7</guid><category>https://feeds.megaphone.fm/MOBI8777994188</category><pubDate>Thu, 23 Jul 2026 11:05:00 +0000</pubDate></item></channel></rss>
